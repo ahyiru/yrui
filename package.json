@@ -1,9 +1,14 @@
 {
   "name": "yrUI",
-  "version": "0.0.2",
-  "title":"Yiru UI Template",
-  "homepage":"https://github.com/ahyiru/",
-  "keywords":["react","typescript","ui","yiru"],
+  "version": "0.0.3",
+  "title": "Yiru UI Template",
+  "homepage": "https://github.com/ahyiru/",
+  "keywords": [
+    "react",
+    "typescript",
+    "ui",
+    "yiru"
+  ],
   "main": "lib/yrUI.js",
   "scripts": {
     "start": "node server",
@@ -15,10 +20,6 @@
     "url": "https://github.com/ahyiru/yrUI"
   },
   "license": "MIT",
-  "devDependencies": {
-    
-  },
-  "dependencies": {
-    
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
