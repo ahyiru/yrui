@@ -1,5 +1,5 @@
 {
-  "name": "yrUI",
+  "name": "yrui",
   "version": "0.0.10",
   "title": "Yiru UI Template",
   "homepage": "https://github.com/ahyiru/",
@@ -9,7 +9,7 @@
     "ui",
     "yiru"
   ],
-  "main": "lib/yrUI.js",
+  "main": "lib/yrui.js",
   "scripts": {
     "start": "node server",
     "build": "webpack --config webpack.production.js --progress && npm run clean && mv _dist y_dist",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahyiru/yrUI"
+    "url": "https://github.com/ahyiru/yrui"
   },
   "license": "MIT",
   "devDependencies": {},
